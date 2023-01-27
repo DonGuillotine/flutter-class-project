@@ -1,4 +1,4 @@
-# hello_world
+# Startup files for Luncha
 
 A new Flutter project.
 
